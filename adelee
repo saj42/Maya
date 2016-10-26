@@ -14,3 +14,7 @@ namespace HelloWorld
         }
     }
 }
+static void Main()
+{
+    //...
+}
